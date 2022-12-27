@@ -1,1 +1,7 @@
+base/
+dataset/
+results/
+notebooks/
 references/
+
+__pycache__/
